@@ -39,7 +39,7 @@ This repository contains the hackerrank statistics challenge code.
 | 8             | Pearson Correlation Coefficient II      | medium|
 | 9             | Multiple Linear Regression              | medium|
 
-<table border="1" cellspacing="0" align="center">
+<div class="table-responsive"><table border="1" cellspacing="0" align="center">
 <tbody align="center">
 <tr>
 <td>Mean</td>
@@ -75,4 +75,4 @@ n = Total number of&nbsp;observations</td>
 n = Total number of&nbsp;observations</td>
 </tr>
 </tbody>
-</table>
+</table></div>
